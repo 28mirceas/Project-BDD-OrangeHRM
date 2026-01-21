@@ -31,27 +31,34 @@ https://opensource-demo.orangehrmlive.com
 ---
 
 ## Project Structure
+```
 Proiect-BDD-OrangeHRM/
 ├── features/
-│ ├── login.feature
-│ ├── dashboard.feature
+│   ├── login.feature
+│   ├── dashboard.feature
 │
 │── steps/
-│ ├── login_steps.py
-│ └── dashboard_steps.py
+│       ├── login_steps.py
+│       └── dashboard_steps.py
 ├── pages/
-│ ├── base_page.py
-│ ├── login_page.py
-│ └── dashboard_page.py
+│   ├── base_page.py
+│   ├── login_page.py
+│   └── dashboard_page.py
 ├── browser.py
 ├── environment.py
 ├── requirements.txt
 └── README.md
+```
+
 
 ---
 
 ## Test Execution
 ```bash
 behave
+```
+
+---
+
 Author
 Project created for educational purposes, focused on BDD automated testing.
