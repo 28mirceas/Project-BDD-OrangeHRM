@@ -1,15 +1,15 @@
 BDD Project – OrangeHRM Automation Testing
 Project Description
 
-This project represents a BDD (Behavior Driven Development) automated test suite for the OrangeHRM web application, using Python, Behave, and Selenium WebDriver.
+This project represents an automated BDD (Behavior Driven Development) test suite for the OrangeHRM web application, using Python, Behave, and Selenium WebDriver.
 
-The goal of the project is to validate the main functionalities of the OrangeHRM application, such as:
+The purpose of this project is to validate the main functionalities of the OrangeHRM application, such as:
 
 user authentication
 
 employee management (add, search, edit)
 
-verification of Dashboard functionalities
+dashboard functionality verification
 
 The tested application is the OrangeHRM demo version:
 https://opensource-demo.orangehrmlive.com
@@ -37,7 +37,7 @@ Gherkin
 ChromeDriver
 
 Project Structure
-BDD-OrangeHRM-Project/
+Proiect-BDD-OrangeHRM/
 ├── features/
 │   ├── login.feature
 │   ├── dashboard.feature
@@ -54,7 +54,7 @@ BDD-OrangeHRM-Project/
 ├── requirements.txt
 └── README.md
 
-Running the Tests
+Test Execution
 behave
 
 Author
