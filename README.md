@@ -60,5 +60,5 @@ behave
 
 ---
 
-Author
+## Author
 Project created for educational purposes, focused on BDD automated testing.
