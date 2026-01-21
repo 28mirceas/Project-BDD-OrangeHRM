@@ -32,7 +32,7 @@ https://opensource-demo.orangehrmlive.com
 
 ## Project Structure
 ```
-Proiect-BDD-OrangeHRM/
+BDD-Project-OrangeHRM/
 ├── features/
 │   ├── login.feature
 │   ├── dashboard.feature
